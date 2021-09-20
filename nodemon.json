@@ -1,0 +1,6 @@
+{
+  "env": {
+    "PORT": 8080,
+    "ATLAS_DB_PASSWORD": "DBPassword123"
+  }
+}
